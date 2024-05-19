@@ -17,7 +17,7 @@ global.Apisichan = 'https://api.miftah.xyz'
 // owner
 global.namaowner = `々 AndyXD || 乂`
 global.nomorowner = '6285784902529'
-global.pairingNumber = "6285784902529"
+global.pairingNumber = "6285852925586"
 global.namabot = 'HoshinoBoTz'
 global.owner = JSON.parse(fs.readFileSync('./database/owner.json')) // ubah nomor owner nya di database agar bisa addowner pake fitur
 global.thumb2 = "https://telegra.ph/file/3439a1e520ac4032cbe78.jpg" //FILES HARUS DIBAWAH 5MB // HARUS BERUPA URL KALO PAKE FOTO ERORR NGEYEL FIX SENDIRI
